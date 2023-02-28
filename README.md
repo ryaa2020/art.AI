@@ -1,4 +1,4 @@
-# Art.AI
+# art.AI
 
 **Team members:** Maika Nishiguchi, Seho Kwak, and Rachel Yang
 
