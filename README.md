@@ -1,3 +1,9 @@
+# Art.AI
+
+**Team members:** Maika Nishiguchi, Seho Kwak, and Rachel Yang
+
+![](cs152.jpg)
+
 ### Introduction 
 Transferring the style from one image to another is a fascinating area of research in computer vision and graphics that has been rapidly growing in popularity. It is a process that can be considered as a problem of texture transfer. In texture transfer, the goal is to synthesize a texture from a source image while constraining the texture synthesis in order to preserve the semantic content of a target image. Essentially, the aim of style transfer is to create an image that is a perfect blend of the content of one image and the style of another.
 	
