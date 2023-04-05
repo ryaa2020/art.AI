@@ -22,7 +22,7 @@ Our goal is to split one photo in half, applying two different art styles to eac
 4. Our inputs will consist of three-channel images represented as matrices of pixel values, which the model will use to extract content and style information.
 5. The output of our neural style transfer model will be a visually appealing image that fuses the style of two different images with the content of a baby photo. This three-channel image, with the same shape and type as the input image, is intended to produce an aesthetic result rather than serve any specific classification, regression, or segmentation task.
 
-### Discussion Section Outline:
+### Discussion Section Outline
 1. We will present the results of our neural style transfer model applied to baby photos, showcasing the visual appeal and effectiveness of combining two different art styles in one image. (Add example images for visual reference.)
 2. To evaluate our model’s performance, we will assess the quality of the style transfer, the preservation of content, and the blending of the two styles in the output images. (Discuss evaluation metrics.)
 3. We will compare our work to the original neural style transfer algorithm and other variations, highlighting any improvements or unique features in our approach. (Add specific comparisons to other papers or implementations.)
